@@ -1,0 +1,5 @@
+{
+  "name": "StudyGenie",
+  "description": "An AI-powered application that transforms your study materials into personalized quizzes, flashcards, and summaries. Features an interactive AI tutor and progress tracking to optimize your learning journey.",
+  "requestFramePermissions": []
+}
